@@ -1,1 +1,3 @@
-# EDA-Python-2
+# A legacy financial institution, headquartered in Hyderabad, is planning to introduce a new line of credit cards to expand its product offerings and market presence. They were approached by a data services company with a proposal to assist in this project. However, the bank's strategy director remains cautious and has requested a pilot project using a sample dataset of 4,000 customers across five cities.
+
+The goal of the pilot is to analyze the provided customer data, focusing on online spending habits and other relevant details, to tailor the credit card offering to meet customer needs and align with market trends. A data analyst from the data services company has been tasked with this analysis, and the success of the full project depends on delivering actionable, data-driven insights that will guide the bank's strategy and earn the approval of the leadership team.
